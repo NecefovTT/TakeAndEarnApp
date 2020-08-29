@@ -11,8 +11,8 @@ package DBConnected;
  */
 public class DBProperty {
 
-    public static final String url = "jdbc:mysql://localhost:3306/take_and_earn";
-    public static final String username = "root";
-    public static final String password = "7891787";
+    public static final String url = "";
+    public static final String username = "";
+    public static final String password = "";
 
 }
