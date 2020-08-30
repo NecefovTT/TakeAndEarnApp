@@ -9,7 +9,7 @@ package DBConnected;
  *
  * @author TT
  */
-public class DBProperty {
+public class DBProperty { 
 
     public static final String url = "";
     public static final String username = "";
